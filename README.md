@@ -1,26 +1,27 @@
 <h1 align="center">Hi 👋, I'm Ashfaq Hussain</h1>
 <h3 align="center">I’m a MEAN Stack (Angular, Node) and PHP Developer (Laravel, CodeIgniter)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashfaqtech&label=Profile%20views&color=0e75b6&style=plastic" alt="ashfaqtech" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ashfaqtech&label=Profile%20views&color=0e75b6&style=plastic" alt="ashfaqtech" />
+</p>
 
 - 🔭 I’m currently working at [Techtronix](https://github.com/ticketmanager)
-
 - 🌱 I’m currently learning **React**
-
-- 👨‍💻 All of my projects are available at [https://github.com/ashfaqtech?tab=repositories](https://github.com/ashfaqtech?tab=repositories)
+- 👨‍💻 All of my projects are available at [My Repositories](https://github.com/ashfaqtech?tab=repositories)
 
 - 💬 **Ask me about:**
- ** **Full Stack Development:** MEAN Stack (Angular, Node.js, MongoDB)
-- **Backend Development:** PHP (Laravel, CodeIgniter)
-- **E-commerce Solutions:** Custom and scalable online shopping systems
-- **Real-time Applications:** Tracking systems, chat functionality, and live updates
-- **Reservation & Appointment Systems:** Optimized solutions for bookings and scheduling
-- **Mobile Application APIs:** API development for taxi and driver apps
-- **AWS Cloud Services:** Infrastructure management with EC2, S3, Lambda, DynamoDB, and more
-- **JavaScript Technologies:** Advanced knowledge of JavaScript frameworks and tools
+  - **Full Stack Development:** MEAN Stack (Angular, Node.js, MongoDB) || PHP (Laravel, CodeIgniter)
+  - **Backend Development:** Node.js, PHP (Laravel, CodeIgniter)
+  - **Frontend Development:** Angular, HTML, Bootstrap, Vue.js
+  - **Domain Expertise:**
+    - **E-commerce Solutions:** Custom and scalable online shopping systems
+    - **Real-time Applications:** Tracking systems, chat functionality, and live updates
+    - **Reservation & Appointment Systems:** Optimized solutions for bookings and scheduling
+    - **Mobile Application APIs:** API development for taxi and driver apps
+    - **AWS Cloud Services:** Infrastructure management with EC2, S3, Lambda, DynamoDB, and more
+    - **JavaScript Technologies:** Advanced knowledge of JavaScript frameworks and tools
 
-
-- 📫 How to reach me **ashfaqhussain2iit@gmail.com / [LinkedIn](https://www.linkedin.com/in/ashfaqtech)**
+- 📫 How to reach me **ashfaqhussain2iit@gmail.com** / [LinkedIn](https://www.linkedin.com/in/ashfaqtech)
 
 ### 🛠 My Knowledge
 
@@ -45,19 +46,19 @@
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/ElasticSearch-%23005571.svg?style=flat-square&logo=elasticsearch&logoColor=white)
 
-
 ## 📊 My GitHub Stats
 
-  <br/>
-    <a href="https://github.com/ashfaqtech/github-readme-stats"><img alt="Ashfaq Hussain's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ashfaqtech&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/ashfaqtech/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashfaqtech&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
 <br/>
+<a href="https://github.com/ashfaqtech/github-readme-stats">
+  <img alt="Ashfaq Hussain's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ashfaqtech&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+</a>
+<a href="https://github.com/ashfaqtech/github-readme-stats">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashfaqtech&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+</a>
 <br/>
-
-<a href="https://github.com/ashfaqtech/github-readme-activity-graph"><img alt="Ashfaq Hussain's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ashfaqtech&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<br/><br/>
+<a href="https://github.com/ashfaqtech/github-readme-activity-graph">
+  <img alt="Ashfaq Hussain's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ashfaqtech&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+</a>
+<br/><br/>
