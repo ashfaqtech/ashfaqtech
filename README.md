@@ -21,7 +21,7 @@
     - **AWS Cloud Services:** Infrastructure management with EC2, S3, Lambda, DynamoDB, and more
     - **JavaScript Technologies:** Advanced knowledge of JavaScript frameworks and tools
 
-- 📫 How to reach me **ashfaqhussain2iit@gmail.com** / [LinkedIn](https://www.linkedin.com/in/ashfaqtech)
+- 📫 How to reach me **ashfaq2iit@gmail.com** / [LinkedIn](https://www.linkedin.com/in/ashfaqtech)
 
 ### 🛠 My Knowledge
 
